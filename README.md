@@ -1,6 +1,6 @@
 # React App Base Project
 
-The intention of this code is that you can simple fork this repositorie and start your own project.
+The intention of this code is that you can simple fork this repository and start your own project.
 
 What will you find in this code?
 
